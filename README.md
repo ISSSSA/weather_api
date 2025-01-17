@@ -44,3 +44,7 @@ pytest tests.py
 
 ## Заключение
 Спасибо большое, за уделенное время, очень надеюсь на продолжение диалога, и всего хорошего!!!
+
+## Контакты
+Telegram: @ISSSSSSSSSSA
+Email: igorsvoronov@gmail.com
